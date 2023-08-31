@@ -1,6 +1,6 @@
 <h1 align="center">Salut 👋, je suis Daniel Ciroy</h1>
 <h3 align="center">développeur web junior et étudiant</h3>
-<img align="left"  src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif" alt="coding" width="400">
+<img align="top"  src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif" alt="coding" width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielciroy&label=Profile%20views&color=0e75b6&style=flat" alt="danielciroy" /> </p>
 
 <p align="top"> <a href="https://twitter.com/ciroydaniel" target="blank"><img src="https://img.shields.io/twitter/follow/ciroydaniel?logo=twitter&style=for-the-badge" alt="ciroydaniel" /></a> </p>
