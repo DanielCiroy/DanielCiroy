@@ -1,5 +1,5 @@
-<h1 align="left">Salut 👋, je suis Daniel Ciroy</h1>
-<h3 align="left">développeur web junior et étudiant</h3>
+<h1 align="left">Salut, je suis Daniel Ciroy</h1>
+<h3 align="left">développeur web</h3>
 <img align="top"  src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif" alt="coding" width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielciroy&label=Profile%20views&color=0e75b6&style=flat" alt="danielciroy" /> </p>
 
